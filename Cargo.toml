@@ -4,8 +4,8 @@ version = "0.1.0"
 authors = ["Ilyosbek ilyosbek@llamacommerce.io"]
 description = "Ilyosbek's command-line search tool"
 license = "MIT"
-repository = "https://github.com/your-username/ripgrep-lite"
-homepage = "https://github.com/your-username/ripgrep-lite"
+repository = "https://github.com/ilyosbek003/rust-search-text"
+homepage = "https://github.com/ilyosbek003/rust-search-text"
 keywords = ["search", "grep", "command-line"]
 categories = ["command-line-utilities", "development-tools"]
 
