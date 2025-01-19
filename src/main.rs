@@ -1,3 +1,7 @@
+extern crate clap;
+extern crate regex;
+extern crate walkdir;
+
 use clap::Parser;
 use regex::Regex;
 use std::fs;
